@@ -1,5 +1,7 @@
 ## Hi there 👋, I'm Miloš Rujević
 
+I am supporter of the [Angular Belgrade](https://twitter.com/angularbelgrade) group.
+
 - [Twitter](https://twitter.com/itmilos)
 - [LinkedIn](https://www.linkedin.com/in/itmilos/)
 
