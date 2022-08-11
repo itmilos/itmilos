@@ -67,11 +67,9 @@ Stats of which I'm most proud.
 I would be glad to hear from you. Please feel free to contact me using one of the methods below.
   
 &nbsp;&nbsp;
-[![LinkedIn](./icons/linkedin-dark.svg)](https://www.linkedin.com/in/mrgeminus/#gh-light-mode-only)
-[![LinkedIn](./icons/linkedin-light.svg)](https://www.linkedin.com/in/mrgeminus/#gh-dark-mode-only)
+[![LinkedIn](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg)](https://www.linkedin.com/in/itmilos/)
 &nbsp;&nbsp;
-[![Xing](./icons/xing-dark.svg)](https://www.xing.com/profile/Uros_Tomic3/cv#gh-light-mode-only)
-[![Xing](./icons/xing-light.svg)](https://www.xing.com/profile/Uros_Tomic3/cv#gh-dark-mode-only)
+[![Xing](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg)](https://www.xing.com/profile/Milos_Rujevic/cv)
 ## :heartbeat: Support
 
 Should you have some spare money and the desire to support me and my work, you can buy me coffee or beer.
