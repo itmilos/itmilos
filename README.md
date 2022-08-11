@@ -2,9 +2,6 @@
 
 I am supporter of the [Angular Belgrade](https://twitter.com/angularbelgrade) group.
 
-- [Twitter](https://twitter.com/itmilos)
-- [LinkedIn](https://www.linkedin.com/in/itmilos/)
-
 ### Talks
 
 - [This is SAP Spartacus!](https://www.youtube.com/watch?v=0RWV5H8qKoc&t=71s)
@@ -66,12 +63,9 @@ Stats of which I'm most proud.
 
 I would be glad to hear from you. Please feel free to contact me using one of the methods below.
   
-&nbsp;&nbsp;
-[![LinkedIn](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg)](https://www.linkedin.com/in/itmilos/)
-&nbsp;&nbsp;
-[![Xing](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg)](https://www.xing.com/profile/Milos_Rujevic/cv)
-## :heartbeat: Support
+- [Twitter](https://twitter.com/itmilos)
+- [LinkedIn](https://www.linkedin.com/in/itmilos/)
 
-Should you have some spare money and the desire to support me and my work, you can buy me coffee or beer.
+Should you have some spare money and the desire to support me and my work, you can send me some SOL. 
 
 [![Send me some SOL]](https://www.hel.io/pay/e3beab2a-6ed7-43bd-a9d7-602f9b1f8f61)
