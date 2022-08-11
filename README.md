@@ -43,6 +43,8 @@ These are technologies and tools I have worked with so far:
 &nbsp;&nbsp;
 <img width="30" height="30"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-plain.svg" />
 &nbsp;&nbsp;
+<img width="30" height="30"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-plain.svg" />
+&nbsp;&nbsp;
 <img width="30" height="30"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg" />
 &nbsp;&nbsp;  
 <img width="30" height="30"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" />
