@@ -76,3 +76,10 @@ I would be glad to hear from you. Please feel free to contact me using one of th
 Should you have some spare money and the desire to support me and my work, you can send me some SOL. 
 
 - [Send me some SOL](https://www.hel.io/pay/e3beab2a-6ed7-43bd-a9d7-602f9b1f8f61)
+
+
+<div align="center"/>
+
+  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=itmilos&theme=merko&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
+
+<div>
