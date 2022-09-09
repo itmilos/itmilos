@@ -1,5 +1,8 @@
 ## Hi there 👋, I'm Miloš Rujević
 
+<img src="./src/hh-belgrade.png" />
+
+### Activity
 - 📣 supporter of the [Angular Belgrade](https://twitter.com/angularbelgrade) group
 - 📚 am currently learning German 🇩🇪 🇩🇪 🇩🇪
 - 👯 am looking to collaborate on exciting and challenging projects
