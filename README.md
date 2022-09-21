@@ -81,8 +81,4 @@ These are technologies and tools I have worked with so far:
   - [Twitter](https://twitter.com/itmilos)
   - [LinkedIn](https://www.linkedin.com/in/itmilos/)
 
-  Should you have some spare money and the desire to support me and my work, you can send me some SOL. 
-
-  - [Send me some SOL](https://www.hel.io/pay/e3beab2a-6ed7-43bd-a9d7-602f9b1f8f61)
-
 <div>
