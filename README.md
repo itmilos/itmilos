@@ -1,6 +1,6 @@
 <img src="./src/mvp-workshop.jpeg" />
 
-# Hi there, 👋 I'm `Milos Rujevic`
+# Hi there, 👋 I'm `Mike Ruje`
 
 ### Activity:
 - 📣 supporter of the [Angular Belgrade](https://twitter.com/angularbelgrade) group
