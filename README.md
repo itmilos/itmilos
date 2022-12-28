@@ -4,6 +4,7 @@
 
 ### Activity:
 - 📣 supporter of the [Angular Belgrade](https://twitter.com/angularbelgrade) group
+- 🫙 interested into decentralized storage 
 - 📚 am currently learning German 🇩🇪 🇩🇪 🇩🇪
 - 👯 am looking to collaborate on exciting and challenging projects
 
