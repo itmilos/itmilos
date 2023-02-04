@@ -24,7 +24,7 @@
 
 <p align="center" style="margin-bottom: 50px;">
   <a href="https://github.com/itmilos"><img alt="GitHub Followers" src="https://img.shields.io/github/followers/itmilos?logo=GitHub&style=for-the-badge"/></a>
-  <a href="https://twitter.com/itmilos"><img alt="Twitter Followers" src="https://img.shields.io/twitter/follow/itmilos?color=blue&label=FOLLOWERS&logo=Twitter&logoColor=white&style=for-the-badge"/></a>
+  <a href="https://twitter.com/itmNFT"><img alt="Twitter Followers" src="https://img.shields.io/twitter/follow/itmNFT?color=blue&label=FOLLOWERS&logo=Twitter&logoColor=white&style=for-the-badge"/></a>
 </p>
 
 ## :bar_chart: GitHub Stats
