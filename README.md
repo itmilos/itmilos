@@ -3,6 +3,7 @@
 # Hi there, 👋 I'm `Mike Ruje`
 
 ### Activity:
+- Opensource projects: [Uplatnica](https://twitter.com/angularbelgrade](https://github.com/Code-for-Serbia/uplatnica) -  [kindergarten-exchange](https://github.com/trkin/kindergarten-exchange)
 - 📣 supporter of the [Angular Belgrade](https://twitter.com/angularbelgrade) group
 - 🫙 interested into decentralized storage 
 - 📚 am currently learning German 🇩🇪 🇩🇪 🇩🇪
