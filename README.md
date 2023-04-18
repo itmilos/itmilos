@@ -22,12 +22,6 @@
 - [Solana Hacker House Belgrade](https://www.youtube.com/watch?v=U5v1jLaoThQ&t=942s)
 - [Solana Hacker House Paris](https://youtu.be/-t-QstA2Nng?t=6128)
 
-
-<p align="center" style="margin-bottom: 50px;">
-  <a href="https://github.com/itmilos"><img alt="GitHub Followers" src="https://img.shields.io/github/followers/itmilos?logo=GitHub&style=for-the-badge"/></a>
-  <a href="https://twitter.com/itmNFT"><img alt="Twitter Followers" src="https://img.shields.io/twitter/follow/itmNFT?color=blue&label=FOLLOWERS&logo=Twitter&logoColor=white&style=for-the-badge"/></a>
-</p>
-
 ## :bar_chart: GitHub Stats
 
 Stats of which I'm most proud.
