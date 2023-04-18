@@ -5,7 +5,7 @@
 ### Activity:
 - 🌍 open source projects [Uplatnica](https://github.com/Code-for-Serbia/uplatnica) & [kindergarten-exchange](https://github.com/trkin/kindergarten-exchange)
 - 📣 supporter of the [Angular Belgrade](https://twitter.com/angularbelgrade) group
-- 🫙 interested into decentralized storage 
+- 🫙 interested into decentralized storage, machine learning and Rust  
 - 📚 am currently learning German 🇩🇪 🇩🇪 🇩🇪
 - 👯 am looking to collaborate on exciting and challenging projects
 
@@ -42,47 +42,12 @@ Stats of which I'm most proud.
 
 <div>
 
-## :hammer_and_wrench: Technologies & Tools
-
-These are technologies and tools I have worked with so far:
-
-<div align='center' style="margin-bottom: 50px;">
-  <img width="30" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
-  &nbsp;&nbsp;
-  <img width="30" height="30"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
-  &nbsp;&nbsp;  
-  <img width="30" height="30"  src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg'>  
-  &nbsp;&nbsp;  
-  <img width="30" height="30"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" />        
-  &nbsp;&nbsp;  
-  <img width="30" height="30"  src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg'>
-  &nbsp;&nbsp;  
-  <img width="30" height="30"  src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg'>
-  &nbsp;&nbsp;  
-  <img width="30" height="30"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
-  &nbsp;&nbsp;
-  <img width="30" height="30"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-plain.svg" />
-  &nbsp;&nbsp;
-  <img width="30" height="30"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-plain.svg" />
-  &nbsp;&nbsp;
-  <img width="30" height="30"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-plain.svg" />
-  &nbsp;&nbsp;
-  <img width="30" height="30"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg" />
-  &nbsp;&nbsp;  
-  <img width="30" height="30"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" />
-  &nbsp;&nbsp;  
-  <img width="30" height="30"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" /> 
-  &nbsp;&nbsp;  
-  <img width="30" height="30"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />  
-</div>
-
 
 ## :mailbox: Contact
 <div align='left'>
 
-  I would be glad to hear from you. Please feel free to contact me using one of the methods below.
-    
-  - [Twitter](https://twitter.com/itmilos)
-  - [LinkedIn](https://www.linkedin.com/in/itmilos/)
+  I would be glad to hear from you. Please feel free to contact me.
+
+  - [web](https://www.technical.pm/)
 
 <div>
