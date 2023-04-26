@@ -1,6 +1,6 @@
 <img src="./src/mvp-workshop.jpeg" />
 
-# Hi there, 👋 I'm `Milos Rujevic`
+# Hi there, 👋 I'm `Mike`
 
 ### Activity:
 - 🌍 open source projects [Uplatnica](https://github.com/Code-for-Serbia/uplatnica) & [kindergarten-exchange](https://github.com/trkin/kindergarten-exchange)
