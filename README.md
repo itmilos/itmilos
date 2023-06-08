@@ -43,6 +43,6 @@ Stats of which I'm most proud.
 
   I would be glad to hear from you. Please feel free to contact me.
 
-  - [web](https://www.technical.pm/)
+  - [telegram](https://t.me/itmnft)
 
 <div>
