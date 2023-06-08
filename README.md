@@ -31,10 +31,6 @@ Stats of which I'm most proud.
 
   [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=itmilos&theme=merko&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
 
-  <img height="175px" src="https://github-readme-stats.vercel.app/api?username=itmilos&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&border_radius=0&hide_border=true"/>
-
-  <img style="margin-bottom: 50px;" height="175px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=itmilos&layout=compact&langs_count=9&border_radius=0&hide_border=true&theme=tokyonight&card_width=319"/>
-
 <div>
 
 
