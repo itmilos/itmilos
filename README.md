@@ -3,11 +3,14 @@
 # Hi there, 👋 I'm `Mike`
 
 ### Activity:
-- 🌍 open source projects [Uplatnica](https://github.com/Code-for-Serbia/uplatnica) & [kindergarten-exchange](https://github.com/trkin/kindergarten-exchange)
+- Intersed in [Semantic Kernel]https://github.com/microsoft/semantic-kernel & [ChatGPT + Enterprise data]https://github.com/Azure-Samples/azure-search-openai-demo
+- 🌍 open source projects [Uplatnica](https://github.com/Code-for-Serbia/uplatnica)
 - 📣 supporter of the [Angular Belgrade](https://twitter.com/angularbelgrade) group
 - 🫙 interested into decentralized storage, machine learning and Rust  
 - 📚 am currently learning German 🇩🇪 🇩🇪 🇩🇪
+- see my UI adentures [CodePen]https://codepen.io/itmNFT
 - 👯 am looking to collaborate on exciting and challenging projects
+
 
 ### Talks:
 
