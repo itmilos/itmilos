@@ -25,16 +25,6 @@
 -   [Solana Hacker House Paris](https://youtu.be/-t-QstA2Nng?t=6128)
 -   [ETH Belgrade Hakaton](https://www.loom.com/share/37ec3116acbf44b98b0835b8b5893f89)
 
-## :bar_chart: GitHub Stats
-
-Stats of which I'm most proud.
-
-<div align="center">
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=itmilos&theme=merko&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
-
-<div>
-
 ## :mailbox: Contact
 
 <div align='left'>
