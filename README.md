@@ -25,6 +25,13 @@
 -   [Solana Hacker House Paris](https://youtu.be/-t-QstA2Nng?t=6128)
 -   [ETH Belgrade Hakaton](https://www.loom.com/share/37ec3116acbf44b98b0835b8b5893f89)
 
+
+<!--END_SECTION:waka-->
+<!-- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sanja969)](https://github.com/anuraghazra/github-readme-stats) -->
+
+| <img align="center" src="https://github-readme-stats.vercel.app/api?username=itmilos" alt="Mike's github stats" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=itmilos" /> |
+| ------------- | ------------- |
+
 ## :mailbox: Contact
 
 <div align='left'>
