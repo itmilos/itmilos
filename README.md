@@ -4,7 +4,7 @@
 
 ### Activity:
 
--   Interested in [Semantic Kernel](https://github.com/microsoft/semantic-kernel)
+-   Interested in [Semantic Kernel](https://github.com/microsoft/semantic-kernel) and Web3 
 -   🌍 open source projects [Uplatnica](https://github.com/Code-for-Serbia/uplatnica) & [ChatGPT + Enterprise data](https://github.com/Azure-Samples/azure-search-openai-demo)
 -   📣 supporter of the [Angular Belgrade](https://twitter.com/angularbelgrade) group
 -   🫙 interested into decentralized storage, machine learning and Rust
