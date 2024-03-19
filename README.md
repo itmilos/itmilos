@@ -1,6 +1,5 @@
-<img src="./src/mvp-workshop.jpeg" />
 
-# Hi there, 👋 I'm `Mike`
+# Hi there, 👋 I'm Milos `Mike` Rujevic
 
 ### Activity:
 
