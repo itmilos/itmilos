@@ -14,7 +14,7 @@
 ### Talks:
 
 -   [This is SAP Spartacus!](https://www.youtube.com/watch?v=0RWV5H8qKoc&t=71s)
--   [CodePen @ GeekNight#3!](https://youtu.be/CNoo5XM6lhg?t=4231)
+-   [CodePen @ GeekNight#3!](https://www.youtube.com/live/6VhhMbAUI7g?si=EyQviGpZRJsde6Dj&t=4251)
 -   [Decentralised Storage networks](https://drive.google.com/file/d/1su-4upieOswXP0ZZSxcblOFIulvuLCwL/view?usp=share_link)
 
 ### Hackathons:
